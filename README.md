@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Rithick78/Leetcode---DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rithick78/Leetcode---DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithick78/Leetcode---DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Rithick78/Leetcode---DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0189-rotate-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rithick78/Leetcode---DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithick78/Leetcode---DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rithick78/Leetcode---DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
