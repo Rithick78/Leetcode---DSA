@@ -8,7 +8,7 @@ class Solution {
 
         for(int i = 0; i < s.length(); i++) {
 
-            if(i + 1 < s.length() && mp.get(s.charAt(i)) < mp.get(s.charAt(i+1))) {
+            if(i < s.length() - 1 && mp.get(s.charAt(i)) < mp.get(s.charAt(i+1))) {
                 total -= mp.get(s.charAt(i));
             }
             else {
