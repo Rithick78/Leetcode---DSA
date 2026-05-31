@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Rithick78/Leetcode---DSA/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/Rithick78/Leetcode---DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1392-longest-happy-prefix](https://github.com/Rithick78/Leetcode---DSA/tree/master/1392-longest-happy-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
@@ -128,4 +129,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rithick78/Leetcode---DSA/tree/master/0014-longest-common-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Rithick78/Leetcode---DSA/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Rithick78/Leetcode---DSA/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Rithick78/Leetcode---DSA/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
