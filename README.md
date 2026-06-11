@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rithick78/Leetcode---DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Rithick78/Leetcode---DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rithick78/Leetcode---DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Rithick78/Leetcode---DSA/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Rithick78/Leetcode---DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Rithick78/Leetcode---DSA/tree/master/0205-isomorphic-strings) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rithick78/Leetcode---DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Rithick78/Leetcode---DSA/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithick78/Leetcode---DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Union-Find
 |  |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Rithick78/Leetcode---DSA/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Rithick78/Leetcode---DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
