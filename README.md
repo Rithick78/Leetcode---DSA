@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rithick78/Leetcode---DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rithick78/Leetcode---DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Rithick78/Leetcode---DSA/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rithick78/Leetcode---DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rithick78/Leetcode---DSA/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithick78/Leetcode---DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0509-fibonacci-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Rithick78/Leetcode---DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rithick78/Leetcode---DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Rithick78/Leetcode---DSA/tree/master/1922-count-good-numbers) |
 ## Prefix Sum
 |  |
@@ -258,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Rithick78/Leetcode---DSA/tree/master/0079-word-search) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
