@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Rithick78/Leetcode---DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/Rithick78/Leetcode---DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rithick78/Leetcode---DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Rithick78/Leetcode---DSA/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Rithick78/Leetcode---DSA/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Rithick78/Leetcode---DSA/tree/master/0079-word-search) |
+| [0216-combination-sum-iii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0216-combination-sum-iii) |
 ## Depth-First Search
 |  |
 | ------- |
