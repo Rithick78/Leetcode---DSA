@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/Rithick78/Leetcode---DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rithick78/Leetcode---DSA/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rithick78/Leetcode---DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Rithick78/Leetcode---DSA/tree/main/0724-find-pivot-index/) | Easy |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Rithick78/Leetcode---DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rithick78/Leetcode---DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Rithick78/Leetcode---DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rithick78/Leetcode---DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rithick78/Leetcode---DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rithick78/Leetcode---DSA/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
