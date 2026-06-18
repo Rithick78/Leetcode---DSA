@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rithick78/Leetcode---DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Rithick78/Leetcode---DSA/tree/main/0724-find-pivot-index/) | Easy |
+| [0735-asteroid-collision](https://github.com/Rithick78/Leetcode---DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rithick78/Leetcode---DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rithick78/Leetcode---DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rithick78/Leetcode---DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Rithick78/Leetcode---DSA/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/Rithick78/Leetcode---DSA/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rithick78/Leetcode---DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Rithick78/Leetcode---DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Rithick78/Leetcode---DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rithick78/Leetcode---DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Rithick78/Leetcode---DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rithick78/Leetcode---DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
