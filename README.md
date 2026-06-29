@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rithick78/Leetcode---DSA/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rithick78/Leetcode---DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Rithick78/Leetcode---DSA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Rithick78/Leetcode---DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Rithick78/Leetcode---DSA/tree/master/0075-sort-colors) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rithick78/Leetcode---DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rithick78/Leetcode---DSA/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Rithick78/Leetcode---DSA/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Rithick78/Leetcode---DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Rithick78/Leetcode---DSA/tree/master/0076-minimum-window-substring) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/Rithick78/Leetcode---DSA/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
