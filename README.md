@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rithick78/Leetcode---DSA/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Rithick78/Leetcode---DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Rithick78/Leetcode---DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Rithick78/Leetcode---DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Rithick78/Leetcode---DSA/tree/master/0054-spiral-matrix) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Rithick78/Leetcode---DSA/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Rithick78/Leetcode---DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Rithick78/Leetcode---DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Rithick78/Leetcode---DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Rithick78/Leetcode---DSA/tree/master/0079-word-search) |
