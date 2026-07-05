@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Rithick78/Leetcode---DSA/tree/master/0079-word-search) |
+| [0210-course-schedule-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0210-course-schedule-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -397,10 +398,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0210-course-schedule-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rithick78/Leetcode---DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0210-course-schedule-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rithick78/Leetcode---DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Rithick78/Leetcode---DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -411,5 +414,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0210-course-schedule-ii) |
 | [3620-network-recovery-pathways](https://github.com/Rithick78/Leetcode---DSA/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
