@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rithick78/Leetcode---DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Rithick78/Leetcode---DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Rithick78/Leetcode---DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Rithick78/Leetcode---DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Rithick78/Leetcode---DSA/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Rithick78/Leetcode---DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Rithick78/Leetcode---DSA/tree/master/0066-plus-one) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rithick78/Leetcode---DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rithick78/Leetcode---DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Rithick78/Leetcode---DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Rithick78/Leetcode---DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rithick78/Leetcode---DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Rithick78/Leetcode---DSA/tree/master/0091-decode-ways) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Rithick78/Leetcode---DSA/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Rithick78/Leetcode---DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Rithick78/Leetcode---DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Rithick78/Leetcode---DSA/tree/master/0621-task-scheduler) |
