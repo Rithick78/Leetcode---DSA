@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Rithick78/Leetcode---DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rithick78/Leetcode---DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Rithick78/Leetcode---DSA/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Rithick78/Leetcode---DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Rithick78/Leetcode---DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Rithick78/Leetcode---DSA/tree/master/0073-set-matrix-zeroes) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rithick78/Leetcode---DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Rithick78/Leetcode---DSA/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Rithick78/Leetcode---DSA/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rithick78/Leetcode---DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Rithick78/Leetcode---DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rithick78/Leetcode---DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Rithick78/Leetcode---DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Rithick78/Leetcode---DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rithick78/Leetcode---DSA/tree/master/0074-search-a-2d-matrix) |
