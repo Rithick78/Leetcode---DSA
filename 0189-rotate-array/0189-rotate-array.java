@@ -1,18 +1,22 @@
 class Solution {
-    private void reverseArray(int[] nums, int start, int end) {
-        while (start < end) {
-            int temp = nums[start];
-            nums[start] = nums[end];
-            nums[end] = temp;
-            start++;
-            end--;
-        }
-    }
+
     public void rotate(int[] nums, int k) {
-        int n = nums.length; 
-        k = k % n; 
-        reverseArray(nums, 0, n-1);
-        reverseArray(nums, 0, k - 1);
-        reverseArray(nums, k, n - 1);
+         int n = nums.length;
+        k = k % n;
+
+        List<Integer> list = new ArrayList<>();
+
+        // Last k elements
+        for (int i = n - k; i < n; i++) {
+            list.add(nums[i]);
+        }
+
+        // Remaining elements
+        for (int j = 0; j < n - k; j++) {
+            list.add(nums[j]);
+        }
+        for(int q=0;q<n;q++){
+            nums[q] = list.get(q);
+        }
     }
 }
