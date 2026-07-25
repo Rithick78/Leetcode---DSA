@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rithick78/Leetcode---DSA/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rithick78/Leetcode---DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Rithick78/Leetcode---DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Rithick78/Leetcode---DSA/tree/master/0283-move-zeroes) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rithick78/Leetcode---DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rithick78/Leetcode---DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rithick78/Leetcode---DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rithick78/Leetcode---DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Rithick78/Leetcode---DSA/tree/master/0875-koko-eating-bananas) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rithick78/Leetcode---DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Rithick78/Leetcode---DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Rithick78/Leetcode---DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rithick78/Leetcode---DSA/tree/main/0724-find-pivot-index/) | Easy |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithick78/Leetcode---DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Rithick78/Leetcode---DSA/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rithick78/Leetcode---DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rithick78/Leetcode---DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rithick78/Leetcode---DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rithick78/Leetcode---DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
