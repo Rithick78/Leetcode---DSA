@@ -10,18 +10,25 @@ class Solution {
 
         while (i < m && j < n) {
             if (nums1[i] < nums2[j]) {
-                mergeArr[cnt++] = nums1[i++];
+                mergeArr[cnt] = nums1[i];
+                i++;
             } else {
-                mergeArr[cnt++] = nums2[j++];
+                mergeArr[cnt] = nums2[j];
+                j++;
             }
+            cnt++;
         }
 
         while (i < m) {
-            mergeArr[cnt++] = nums1[i++];
+            mergeArr[cnt] = nums1[i];
+            cnt++;
+            i++;
         }
 
         while (j < n) {
-            mergeArr[cnt++] = nums2[j++];
+            mergeArr[cnt] = nums2[j];
+            cnt++;
+            j++;
         }
 
         int len = mergeArr.length;
