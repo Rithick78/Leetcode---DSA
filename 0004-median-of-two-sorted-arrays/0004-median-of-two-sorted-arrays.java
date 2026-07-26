@@ -1,6 +1,5 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-
         int m = nums1.length;
         int n = nums2.length;
 
@@ -33,10 +32,11 @@ class Solution {
 
         int len = mergeArr.length;
 
-        if (len % 2 == 1) {
-            return mergeArr[len / 2];
-        } else {
-            return (mergeArr[len / 2 - 1] + mergeArr[len / 2]) / 2.0;
-        }
+         if(len % 2 == 1){
+            return mergeArr[len/2];
+         }else{
+           return (mergeArr[len/2] + mergeArr[(len/2)-1]) / 2.0;
+         }
+
     }
 }
