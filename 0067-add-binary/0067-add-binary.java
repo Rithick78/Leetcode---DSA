@@ -16,7 +16,7 @@ class Solution {
             i--;
             j--;
 
-            sb.append((char)(digit + '0'));
+            sb.append(digit);
         }
 
         return sb.reverse().toString();
