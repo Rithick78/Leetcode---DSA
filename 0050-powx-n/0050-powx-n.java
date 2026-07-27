@@ -1,19 +1,21 @@
 class Solution {
-    private double power(double x, long n) {
-        if (n == 0 || x == 1.0) return 1.0;
-        if (n == 1) return x;
-        if (n % 2 == 0) {
-            return power(x * x, n / 2);
-        }
-        return x * power(x, n - 1);
-    }
-
     public double myPow(double x, int n) {
-        long num = n;
-        if (num < 0) {
-            return (1.0 / power(x, -num));
+        if (n < 0) {
+            n = -n;
+            x = 1 / x;
         }
-        return power(x, num);
-        
+
+        double pow = 1;
+
+        while (n != 0) {
+            if ((n & 1) != 0) {
+                pow *= x;
+            }
+
+            x *= x;
+            n >>>= 1;
+        }
+
+        return pow;
     }
 }
