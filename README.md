@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Rithick78/Leetcode---DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rithick78/Leetcode---DSA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Rithick78/Leetcode---DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Rithick78/Leetcode---DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Rithick78/Leetcode---DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Rithick78/Leetcode---DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Rithick78/Leetcode---DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Rithick78/Leetcode---DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Rithick78/Leetcode---DSA/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rithick78/Leetcode---DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Rithick78/Leetcode---DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rithick78/Leetcode---DSA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Rithick78/Leetcode---DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Rithick78/Leetcode---DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Rithick78/Leetcode---DSA/tree/master/0402-remove-k-digits) |
