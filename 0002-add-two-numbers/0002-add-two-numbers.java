@@ -14,7 +14,7 @@ class Solution {
         ListNode res = dummy;
         int total = 0, carry = 0;
 
-        while (l1 != null || l2 != null || carry != 0) {
+        while (l1 != null || l2 != null || carry > 0) {
             total = carry;
 
             if (l1 != null) {
