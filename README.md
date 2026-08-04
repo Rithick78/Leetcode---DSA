@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rithick78/Leetcode---DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rithick78/Leetcode---DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Rithick78/Leetcode---DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rithick78/Leetcode---DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Rithick78/Leetcode---DSA/tree/master/0283-move-zeroes) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Rithick78/Leetcode---DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Rithick78/Leetcode---DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Rithick78/Leetcode---DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Rithick78/Leetcode---DSA/tree/master/0290-word-pattern) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Rithick78/Leetcode---DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Rithick78/Leetcode---DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rithick78/Leetcode---DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Rithick78/Leetcode---DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Rithick78/Leetcode---DSA/tree/master/0455-assign-cookies) |
