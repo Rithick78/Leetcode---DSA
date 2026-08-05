@@ -14,8 +14,7 @@ class Solution {
                 right = mid - 1;
             }
         }
-
-        // Wrap around if no greater letter exists
+        
         return letters[left % letters.length];
     }
 }
