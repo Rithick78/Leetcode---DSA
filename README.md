@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Rithick78/Leetcode---DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Rithick78/Leetcode---DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Rithick78/Leetcode---DSA/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rithick78/Leetcode---DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0846-hand-of-straights](https://github.com/Rithick78/Leetcode---DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Rithick78/Leetcode---DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Rithick78/Leetcode---DSA/tree/master/0875-koko-eating-bananas) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rithick78/Leetcode---DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rithick78/Leetcode---DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rithick78/Leetcode---DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Rithick78/Leetcode---DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rithick78/Leetcode---DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rithick78/Leetcode---DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
