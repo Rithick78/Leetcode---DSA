@@ -9,24 +9,21 @@ class Solution {
         int[] pCount = new int[26];
         int[] sCount = new int[26];
 
-        for (int i = 0; i < p.length(); i++) {
-            pCount[p.charAt(i) - 'a']++;
-            sCount[s.charAt(i) - 'a']++;
+        for(char num : p.toCharArray()){
+            pCount[num - 'a']++;
         }
 
-        if (Arrays.equals(pCount, sCount))
-            ans.add(0);
-
-        for (int i = p.length(); i < s.length(); i++) {
-
+        for (int i = 0; i < s.length(); i++) {
             sCount[s.charAt(i) - 'a']++;
 
-            sCount[s.charAt(i - p.length()) - 'a']--;
+            if(i >= p.length()){
+                sCount[s.charAt(i - p.length()) - 'a']--;
+            }
 
-            if (Arrays.equals(pCount, sCount))
+            if(Arrays.equals(sCount, pCount)){
                 ans.add(i - p.length() + 1);
+            }
         }
-
         return ans;
     }
 }
