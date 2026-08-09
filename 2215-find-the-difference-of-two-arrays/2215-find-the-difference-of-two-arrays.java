@@ -9,12 +9,12 @@ class Solution {
         for(int n : nums1) set1.add(n);
         for(int n : nums2) set2.add(n);
         for (int n : set1){
-            if(set2.contains(n) == false){
+            if(!set2.contains(n)){
                 ans1.add(n);
             }
         }
         for (int n : set2){
-            if(set1.contains(n) == false){
+            if(!set1.contains(n)){
                 ans2.add(n);
             }
         }
