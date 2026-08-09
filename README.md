@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rithick78/Leetcode---DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Rithick78/Leetcode---DSA/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/Rithick78/Leetcode---DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Rithick78/Leetcode---DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0680-valid-palindrome-ii) |
