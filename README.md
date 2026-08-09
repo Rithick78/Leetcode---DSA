@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rithick78/Leetcode---DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Rithick78/Leetcode---DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rithick78/Leetcode---DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Rithick78/Leetcode---DSA/tree/master/0455-assign-cookies) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Rithick78/Leetcode---DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rithick78/Leetcode---DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Rithick78/Leetcode---DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Rithick78/Leetcode---DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rithick78/Leetcode---DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Rithick78/Leetcode---DSA/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0287-find-the-duplicate-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
 |  |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rithick78/Leetcode---DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rithick78/Leetcode---DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Rithick78/Leetcode---DSA/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rithick78/Leetcode---DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rithick78/Leetcode---DSA/tree/master/0704-binary-search) |
@@ -658,4 +662,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Rithick78/Leetcode---DSA/tree/master/0278-first-bad-version) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
