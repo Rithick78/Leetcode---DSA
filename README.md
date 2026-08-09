@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Rithick78/Leetcode---DSA/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rithick78/Leetcode---DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Rithick78/Leetcode---DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Rithick78/Leetcode---DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rithick78/Leetcode---DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rithick78/Leetcode---DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rithick78/Leetcode---DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Rithick78/Leetcode---DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Rithick78/Leetcode---DSA/tree/master/0905-sort-array-by-parity) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Rithick78/Leetcode---DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/Rithick78/Leetcode---DSA/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rithick78/Leetcode---DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rithick78/Leetcode---DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Rithick78/Leetcode---DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/Rithick78/Leetcode---DSA/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Rithick78/Leetcode---DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Rithick78/Leetcode---DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rithick78/Leetcode---DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rithick78/Leetcode---DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Rithick78/Leetcode---DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Rithick78/Leetcode---DSA/tree/master/0846-hand-of-straights) |
 | [0905-sort-array-by-parity](https://github.com/Rithick78/Leetcode---DSA/tree/master/0905-sort-array-by-parity) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Rithick78/Leetcode---DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rithick78/Leetcode---DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Rithick78/Leetcode---DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rithick78/Leetcode---DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Rithick78/Leetcode---DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rithick78/Leetcode---DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/1901-find-a-peak-element-ii) |
