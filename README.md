@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Rithick78/Leetcode---DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Rithick78/Leetcode---DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Rithick78/Leetcode---DSA/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0896-monotonic-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rithick78/Leetcode---DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rithick78/Leetcode---DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rithick78/Leetcode---DSA/tree/master/0992-subarrays-with-k-different-integers) |
