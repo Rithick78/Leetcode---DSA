@@ -18,7 +18,6 @@ class Solution {
             move = move.next;
         }
 
-        // Remove remaining duplicate nodes
         temp.next = null;
 
         return head;
