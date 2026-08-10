@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Rithick78/Leetcode---DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Rithick78/Leetcode---DSA/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0896-monotonic-array) |
+| [0904-fruit-into-baskets](https://github.com/Rithick78/Leetcode---DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Rithick78/Leetcode---DSA/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rithick78/Leetcode---DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rithick78/Leetcode---DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Rithick78/Leetcode---DSA/tree/master/0621-task-scheduler) |
 | [0771-jewels-and-stones](https://github.com/Rithick78/Leetcode---DSA/tree/master/0771-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/Rithick78/Leetcode---DSA/tree/master/0846-hand-of-straights) |
+| [0904-fruit-into-baskets](https://github.com/Rithick78/Leetcode---DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rithick78/Leetcode---DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/Rithick78/Leetcode---DSA/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Rithick78/Leetcode---DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Rithick78/Leetcode---DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Rithick78/Leetcode---DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rithick78/Leetcode---DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rithick78/Leetcode---DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rithick78/Leetcode---DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
