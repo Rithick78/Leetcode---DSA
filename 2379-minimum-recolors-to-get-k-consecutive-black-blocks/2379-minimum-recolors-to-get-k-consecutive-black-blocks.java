@@ -3,7 +3,7 @@ class Solution {
         int m,w=0;
         for(int i=0;i<k;i++){
             if(a.charAt(i)=='W'){
-                w+=1;
+                w++;
             }
         }
         m=w;
