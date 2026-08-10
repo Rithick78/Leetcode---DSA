@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Rithick78/Leetcode---DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Rithick78/Leetcode---DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Rithick78/Leetcode---DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Rithick78/Leetcode---DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Rithick78/Leetcode---DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Rithick78/Leetcode---DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rithick78/Leetcode---DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/Rithick78/Leetcode---DSA/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Rithick78/Leetcode---DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Rithick78/Leetcode---DSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Rithick78/Leetcode---DSA/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Rithick78/Leetcode---DSA/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Rithick78/Leetcode---DSA/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rithick78/Leetcode---DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rithick78/Leetcode---DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rithick78/Leetcode---DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Rithick78/Leetcode---DSA/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Rithick78/Leetcode---DSA/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rithick78/Leetcode---DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rithick78/Leetcode---DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Rithick78/Leetcode---DSA/tree/master/1021-remove-outermost-parentheses) |
