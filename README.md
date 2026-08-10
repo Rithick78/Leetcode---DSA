@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rithick78/Leetcode---DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Rithick78/Leetcode---DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Rithick78/Leetcode---DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Rithick78/Leetcode---DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Rithick78/Leetcode---DSA/tree/master/0455-assign-cookies) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Rithick78/Leetcode---DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Rithick78/Leetcode---DSA/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Rithick78/Leetcode---DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Rithick78/Leetcode---DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Rithick78/Leetcode---DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Rithick78/Leetcode---DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rithick78/Leetcode---DSA/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Rithick78/Leetcode---DSA/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rithick78/Leetcode---DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rithick78/Leetcode---DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rithick78/Leetcode---DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Rithick78/Leetcode---DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Rithick78/Leetcode---DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Rithick78/Leetcode---DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Rithick78/Leetcode---DSA/tree/master/0455-assign-cookies) |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Rithick78/Leetcode---DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Rithick78/Leetcode---DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rithick78/Leetcode---DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -501,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rithick78/Leetcode---DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Rithick78/Leetcode---DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rithick78/Leetcode---DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Rithick78/Leetcode---DSA/tree/master/0621-task-scheduler) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rithick78/Leetcode---DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -508,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rithick78/Leetcode---DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rithick78/Leetcode---DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Recursion
 |  |
@@ -690,4 +697,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0287-find-the-duplicate-number) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rithick78/Leetcode---DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
