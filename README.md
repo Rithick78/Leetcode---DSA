@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Rithick78/Leetcode---DSA/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rithick78/Leetcode---DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rithick78/Leetcode---DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Simulation
 |  |
 | ------- |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Rithick78/Leetcode---DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rithick78/Leetcode---DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rithick78/Leetcode---DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Merge Sort
 |  |
 | ------- |
