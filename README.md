@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rithick78/Leetcode---DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Rithick78/Leetcode---DSA/tree/master/0621-task-scheduler) |
+| [0771-jewels-and-stones](https://github.com/Rithick78/Leetcode---DSA/tree/master/0771-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/Rithick78/Leetcode---DSA/tree/master/0846-hand-of-straights) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rithick78/Leetcode---DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/Rithick78/Leetcode---DSA/tree/master/1002-find-common-characters) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Rithick78/Leetcode---DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/Rithick78/Leetcode---DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Rithick78/Leetcode---DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rithick78/Leetcode---DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
