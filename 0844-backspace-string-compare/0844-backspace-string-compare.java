@@ -1,37 +1,55 @@
 class Solution {
     public boolean backspaceCompare(String s, String t) {
-           Stack<Character> st1 = new Stack<>();
-           Stack<Character> st2 = new Stack<>();
 
-           for(char c : s.toCharArray()){
-               if(c == '#'){
-                 if(!st1.isEmpty()){
-                    st1.pop();
-                 }
-               }else{
-                  st1.add(c);
-               }
-           }
+        int i = s.length() - 1;
+        int j = t.length() - 1;
 
-           for(char c : t.toCharArray()){
-               if(c == '#'){
-                  if(!st2.isEmpty()){
-                    st2.pop();
-                 }
-               }else{
-                  st2.add(c);
-               }
-           }
-           StringBuilder sb1 = new StringBuilder();
-           StringBuilder sb2 = new StringBuilder();
+        while (i >= 0 || j >= 0) {
 
-           for(char c : st1){
-               sb1.append(c);
-           }
-           for(char c : st2){
-               sb2.append(c);
-           }
+            i = getNextValidIndex(s, i);
+            j = getNextValidIndex(t, j);
 
-           return sb1.toString().equals(sb2.toString());
+            // Both strings are completely processed
+            if (i < 0 && j < 0) {
+                return true;
+            }
+
+            // One string has characters remaining
+            if (i < 0 || j < 0) {
+                return false;
+            }
+
+            // Characters are different
+            if (s.charAt(i) != t.charAt(j)) {
+                return false;
+            }
+
+            i--;
+            j--;
+        }
+
+        return true;
+    }
+
+    private int getNextValidIndex(String s, int index) {
+
+        int backspaces = 0;
+
+        while (index >= 0) {
+
+            if (s.charAt(index) == '#') {
+                backspaces++;
+            } 
+            else if (backspaces > 0) {
+                backspaces--;
+            } 
+            else {
+                break;
+            }
+
+            index--;
+        }
+
+        return index;
     }
 }
