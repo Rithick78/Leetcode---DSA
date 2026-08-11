@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Rithick78/Leetcode---DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rithick78/Leetcode---DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Rithick78/Leetcode---DSA/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rithick78/Leetcode---DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rithick78/Leetcode---DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Rithick78/Leetcode---DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rithick78/Leetcode---DSA/tree/master/0225-implement-stack-using-queues) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Rithick78/Leetcode---DSA/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rithick78/Leetcode---DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0210-course-schedule-ii) |
 ## Memoization
 |  |
@@ -718,4 +720,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rithick78/Leetcode---DSA/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rithick78/Leetcode---DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rithick78/Leetcode---DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
