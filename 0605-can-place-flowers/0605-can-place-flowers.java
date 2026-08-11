@@ -4,7 +4,7 @@ class Solution {
             boolean left = i == 0 || flowerbed[i - 1] == 0;
             boolean right = i == flowerbed.length - 1 || flowerbed[i + 1] == 0;
             
-            if (left && flowerbed[i] == 0 && right ) {
+            if (left && flowerbed[i] == 0 && right) {
                 flowerbed[i] = 1;
                 n--;
             }
