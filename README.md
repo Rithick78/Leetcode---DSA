@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Rithick78/Leetcode---DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithick78/Leetcode---DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Rithick78/Leetcode---DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Rithick78/Leetcode---DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Rithick78/Leetcode---DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithick78/Leetcode---DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Rithick78/Leetcode---DSA/tree/master/0152-maximum-product-subarray) |
