@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Rithick78/Leetcode---DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Rithick78/Leetcode---DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rithick78/Leetcode---DSA/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rithick78/Leetcode---DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Rithick78/Leetcode---DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Rithick78/Leetcode---DSA/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/Rithick78/Leetcode---DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rithick78/Leetcode---DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rithick78/Leetcode---DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Rithick78/Leetcode---DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Rithick78/Leetcode---DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Rithick78/Leetcode---DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rithick78/Leetcode---DSA/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Rithick78/Leetcode---DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Rithick78/Leetcode---DSA/tree/master/0844-backspace-string-compare) |
