@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rithick78/Leetcode---DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Rithick78/Leetcode---DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Rithick78/Leetcode---DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rithick78/Leetcode---DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0216-combination-sum-iii) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rithick78/Leetcode---DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Rithick78/Leetcode---DSA/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Rithick78/Leetcode---DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rithick78/Leetcode---DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Rithick78/Leetcode---DSA/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Rithick78/Leetcode---DSA/tree/master/0200-number-of-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/1901-find-a-peak-element-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rithick78/Leetcode---DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Stack
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Rithick78/Leetcode---DSA/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rithick78/Leetcode---DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rithick78/Leetcode---DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/Rithick78/Leetcode---DSA/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0210-course-schedule-ii) |
 ## Memoization
 |  |
@@ -703,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rithick78/Leetcode---DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Rithick78/Leetcode---DSA/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0210-course-schedule-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rithick78/Leetcode---DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
