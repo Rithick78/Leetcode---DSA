@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Rithick78/Leetcode---DSA/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Rithick78/Leetcode---DSA/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Rithick78/Leetcode---DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Rithick78/Leetcode---DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Rithick78/Leetcode---DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Rithick78/Leetcode---DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Rithick78/Leetcode---DSA/tree/master/0735-asteroid-collision) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Rithick78/Leetcode---DSA/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Rithick78/Leetcode---DSA/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rithick78/Leetcode---DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Rithick78/Leetcode---DSA/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/Rithick78/Leetcode---DSA/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Rithick78/Leetcode---DSA/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Rithick78/Leetcode---DSA/tree/master/0819-most-common-word) |
 | [0846-hand-of-straights](https://github.com/Rithick78/Leetcode---DSA/tree/master/0846-hand-of-straights) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rithick78/Leetcode---DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Rithick78/Leetcode---DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Rithick78/Leetcode---DSA/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/Rithick78/Leetcode---DSA/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/Rithick78/Leetcode---DSA/tree/master/0846-hand-of-straights) |
 | [0905-sort-array-by-parity](https://github.com/Rithick78/Leetcode---DSA/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/Rithick78/Leetcode---DSA/tree/master/0976-largest-perimeter-triangle) |
