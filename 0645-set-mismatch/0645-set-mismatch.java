@@ -1,21 +1,27 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        int[] ans = new int[nums.length];
-        int[] res = new int[2];
-        for(int num : nums){
-            if(ans[num - 1] != 0){
-                res[0] = num;
+        int duplicate = -1;
+        int missing = -1;
+
+        // Find the duplicate
+        for (int num : nums) {
+            int index = Math.abs(num) - 1;
+
+            if (nums[index] < 0) {
+                duplicate = Math.abs(num);
+            } else {
+                nums[index] = -nums[index];
             }
-            ans[num - 1] = num;
         }
 
-        for(int i=0;i<ans.length;i++){
-            if(ans[i] == 0){
-                res[1] = i+1;
+        // Find the missing number
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] > 0) {
+                missing = i + 1;
+                break;
             }
         }
 
-        return res;
-
+        return new int[]{duplicate, missing};
     }
 }
