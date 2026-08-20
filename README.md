@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rithick78/Leetcode---DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Rithick78/Leetcode---DSA/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Rithick78/Leetcode---DSA/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Rithick78/Leetcode---DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithick78/Leetcode---DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rithick78/Leetcode---DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Rithick78/Leetcode---DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/Rithick78/Leetcode---DSA/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/Rithick78/Leetcode---DSA/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Rithick78/Leetcode---DSA/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Rithick78/Leetcode---DSA/tree/master/0771-jewels-and-stones) |
