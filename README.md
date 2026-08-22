@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rithick78/Leetcode---DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Rithick78/Leetcode---DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/Rithick78/Leetcode---DSA/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Rithick78/Leetcode---DSA/tree/master/0455-assign-cookies) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Rithick78/Leetcode---DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rithick78/Leetcode---DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Rithick78/Leetcode---DSA/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/Rithick78/Leetcode---DSA/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Rithick78/Leetcode---DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rithick78/Leetcode---DSA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Rithick78/Leetcode---DSA/tree/master/0441-arranging-coins) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Rithick78/Leetcode---DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Rithick78/Leetcode---DSA/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Rithick78/Leetcode---DSA/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Rithick78/Leetcode---DSA/tree/master/0647-palindromic-substrings) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rithick78/Leetcode---DSA/tree/master/0907-sum-of-subarray-minimums) |
