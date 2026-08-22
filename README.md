@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rithick78/Leetcode---DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Rithick78/Leetcode---DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Rithick78/Leetcode---DSA/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/Rithick78/Leetcode---DSA/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rithick78/Leetcode---DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Rithick78/Leetcode---DSA/tree/master/0455-assign-cookies) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Rithick78/Leetcode---DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Rithick78/Leetcode---DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Rithick78/Leetcode---DSA/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Rithick78/Leetcode---DSA/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Rithick78/Leetcode---DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rithick78/Leetcode---DSA/tree/master/0415-add-strings) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rithick78/Leetcode---DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Rithick78/Leetcode---DSA/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Rithick78/Leetcode---DSA/tree/master/0399-evaluate-division) |
 ## Matrix
 |  |
 | ------- |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rithick78/Leetcode---DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Rithick78/Leetcode---DSA/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Rithick78/Leetcode---DSA/tree/master/0399-evaluate-division) |
 ## Memoization
 |  |
 | ------- |
@@ -735,16 +739,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rithick78/Leetcode---DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Rithick78/Leetcode---DSA/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Rithick78/Leetcode---DSA/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rithick78/Leetcode---DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Rithick78/Leetcode---DSA/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rithick78/Leetcode---DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Rithick78/Leetcode---DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Rithick78/Leetcode---DSA/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rithick78/Leetcode---DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Rithick78/Leetcode---DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -818,4 +825,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Rithick78/Leetcode---DSA/tree/master/0976-largest-perimeter-triangle) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Rithick78/Leetcode---DSA/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Rithick78/Leetcode---DSA/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
