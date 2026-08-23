@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rithick78/Leetcode---DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Rithick78/Leetcode---DSA/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/Rithick78/Leetcode---DSA/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Rithick78/Leetcode---DSA/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rithick78/Leetcode---DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Rithick78/Leetcode---DSA/tree/master/1927-sum-game) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rithick78/Leetcode---DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Simulation
 |  |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Rithick78/Leetcode---DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Rithick78/Leetcode---DSA/tree/master/1927-sum-game) |
 ## Trie
 |  |
 | ------- |
@@ -837,4 +840,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Rithick78/Leetcode---DSA/tree/master/0399-evaluate-division) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Rithick78/Leetcode---DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
