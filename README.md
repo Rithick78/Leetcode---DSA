@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rithick78/Leetcode---DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rithick78/Leetcode---DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/Rithick78/Leetcode---DSA/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rithick78/Leetcode---DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rithick78/Leetcode---DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Rithick78/Leetcode---DSA/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Rithick78/Leetcode---DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rithick78/Leetcode---DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1872-stone-game-viii](https://github.com/Rithick78/Leetcode---DSA/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Rithick78/Leetcode---DSA/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/Rithick78/Leetcode---DSA/tree/master/1927-sum-game) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Rithick78/Leetcode---DSA/tree/master/0647-palindromic-substrings) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rithick78/Leetcode---DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rithick78/Leetcode---DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1872-stone-game-viii](https://github.com/Rithick78/Leetcode---DSA/tree/master/1872-stone-game-viii) |
 | [3620-network-recovery-pathways](https://github.com/Rithick78/Leetcode---DSA/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Rithick78/Leetcode---DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rithick78/Leetcode---DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/Rithick78/Leetcode---DSA/tree/master/1872-stone-game-viii) |
 ## Linked List
 |  |
 | ------- |
@@ -844,5 +848,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Rithick78/Leetcode---DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Rithick78/Leetcode---DSA/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Rithick78/Leetcode---DSA/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Rithick78/Leetcode---DSA/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
