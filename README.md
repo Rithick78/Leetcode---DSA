@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rithick78/Leetcode---DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rithick78/Leetcode---DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rithick78/Leetcode---DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rithick78/Leetcode---DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Rithick78/Leetcode---DSA/tree/master/0819-most-common-word) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rithick78/Leetcode---DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rithick78/Leetcode---DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rithick78/Leetcode---DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Database
 |  |
 | ------- |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Rithick78/Leetcode---DSA/tree/master/1927-sum-game) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rithick78/Leetcode---DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rithick78/Leetcode---DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rithick78/Leetcode---DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Rithick78/Leetcode---DSA/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rithick78/Leetcode---DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -722,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rithick78/Leetcode---DSA/tree/master/0204-count-primes) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rithick78/Leetcode---DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
