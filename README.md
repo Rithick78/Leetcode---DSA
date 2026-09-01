@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rithick78/Leetcode---DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rithick78/Leetcode---DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rithick78/Leetcode---DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rithick78/Leetcode---DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/Rithick78/Leetcode---DSA/tree/master/3620-network-recovery-pathways) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rithick78/Leetcode---DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Rithick78/Leetcode---DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Rithick78/Leetcode---DSA/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rithick78/Leetcode---DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rithick78/Leetcode---DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rithick78/Leetcode---DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rithick78/Leetcode---DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rithick78/Leetcode---DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rithick78/Leetcode---DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rithick78/Leetcode---DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Rithick78/Leetcode---DSA/tree/master/0200-number-of-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/1901-find-a-peak-element-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rithick78/Leetcode---DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rithick78/Leetcode---DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
 | ------- |
@@ -778,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Rithick78/Leetcode---DSA/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Rithick78/Leetcode---DSA/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rithick78/Leetcode---DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rithick78/Leetcode---DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
