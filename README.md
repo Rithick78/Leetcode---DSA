@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Rithick78/Leetcode---DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/Rithick78/Leetcode---DSA/tree/master/0819-most-common-word) |
+| [0824-goat-latin](https://github.com/Rithick78/Leetcode---DSA/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/Rithick78/Leetcode---DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rithick78/Leetcode---DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/Rithick78/Leetcode---DSA/tree/master/1002-find-common-characters) |
