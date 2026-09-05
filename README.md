@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Rithick78/Leetcode---DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rithick78/Leetcode---DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rithick78/Leetcode---DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rithick78/Leetcode---DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rithick78/Leetcode---DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rithick78/Leetcode---DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rithick78/Leetcode---DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Rithick78/Leetcode---DSA/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rithick78/Leetcode---DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Rithick78/Leetcode---DSA/tree/master/1927-sum-game) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rithick78/Leetcode---DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
