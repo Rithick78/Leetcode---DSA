@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rithick78/Leetcode---DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rithick78/Leetcode---DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rithick78/Leetcode---DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rithick78/Leetcode---DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rithick78/Leetcode---DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/Rithick78/Leetcode---DSA/tree/master/3620-network-recovery-pathways) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rithick78/Leetcode---DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rithick78/Leetcode---DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rithick78/Leetcode---DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rithick78/Leetcode---DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rithick78/Leetcode---DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rithick78/Leetcode---DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rithick78/Leetcode---DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Rithick78/Leetcode---DSA/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Rithick78/Leetcode---DSA/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Rithick78/Leetcode---DSA/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rithick78/Leetcode---DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rithick78/Leetcode---DSA/tree/master/0204-count-primes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Rithick78/Leetcode---DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rithick78/Leetcode---DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Rithick78/Leetcode---DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
