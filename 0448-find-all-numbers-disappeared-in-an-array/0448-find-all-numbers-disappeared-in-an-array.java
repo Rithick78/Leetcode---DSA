@@ -7,14 +7,13 @@ class Solution {
            set[num-1] = num;
         }
         
-        List<Integer> l = new ArrayList<>();
-        for(int i=0;i<nums.length;i++){
+        List<Integer> li = new ArrayList();
+        
+        for(int i=0;i<set.length;i++){
             if(set[i] == 0){
-                l.add(i+1);
+                li.add(i+1);
             }
         }
-
-        return l;
-        
+        return li;
     }
 }
