@@ -10,7 +10,10 @@ class Solution {
           }
        }
 
-       Set<Integer> set = new HashSet<>(map.values());
+       Set<Integer> set = new HashSet<>();
+       for(int i=0;i<arr.length;i++){
+           set.add(map.get(arr[i]));
+       }
 
        if(map.size() == set.size()) return true;
 
